@@ -1,0 +1,12 @@
+﻿document.write('<div class="C371421a2f0724529a2355dc73ffe8ed3">');
+document.write('<div class="C1986ce0a64ee4ddc916c5225ab30bdc1">');
+document.write('<div style="text-align:left;">');
+document.write('<span style ="font-family:\'Noto Sans\'; font-size: 14pt;color:rgba(0,0,0,1);">Example footer<br>');
+document.write('</span><span style ="font-family:\'Noto Sans\'; font-size: 10.5pt;color:rgba(0,0,0,1);">This section acts as the default footer and will appear on all pages in this website<br>');
+document.write('Change this setting under Section Properties<br>');
+document.write('</span>');
+document.write('</div>');
+document.write('');
+document.write('</div>');
+document.write('');
+document.write('</div>');
